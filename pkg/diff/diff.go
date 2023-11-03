@@ -10,12 +10,12 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
-	"github.com/rainest/deck/cprint"
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/konnect"
-	"github.com/rainest/deck/state"
-	"github.com/rainest/deck/types"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/cprint"
+	"github.com/rainest/decklib/crud"
+	"github.com/rainest/decklib/konnect"
+	"github.com/rainest/decklib/state"
+	"github.com/rainest/decklib/types"
+	"github.com/rainest/decklib/utils"
 	"github.com/kong/go-kong/kong"
 )
 

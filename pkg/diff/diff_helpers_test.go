@@ -3,8 +3,8 @@ package diff
 import (
 	"testing"
 
-	"github.com/rainest/deck/konnect"
-	"github.com/rainest/deck/state"
+	"github.com/rainest/decklib/konnect"
+	"github.com/rainest/decklib/state"
 	"github.com/kong/go-kong/kong"
 )
 

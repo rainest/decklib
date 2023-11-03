@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/rainest/deck/state"
+	"github.com/rainest/decklib/state"
 	"github.com/kong/go-kong/kong"
 	"github.com/stretchr/testify/assert"
 )

@@ -12,7 +12,7 @@ import (
 	"text/template"
 
 	"github.com/imdario/mergo"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/utils"
 	"sigs.k8s.io/yaml"
 )
 

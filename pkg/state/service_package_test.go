@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rainest/deck/konnect"
+	"github.com/rainest/decklib/konnect"
 	"github.com/kong/go-kong/kong"
 	"github.com/stretchr/testify/assert"
 )

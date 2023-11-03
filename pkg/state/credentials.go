@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	memdb "github.com/hashicorp/go-memdb"
-	"github.com/rainest/deck/state/indexers"
+	"github.com/rainest/decklib/state/indexers"
 )
 
 const (

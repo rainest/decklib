@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	"github.com/blang/semver/v4"
-	"github.com/rainest/deck/dump"
-	"github.com/rainest/deck/state"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/dump"
+	"github.com/rainest/decklib/state"
+	"github.com/rainest/decklib/utils"
 	"github.com/kong/go-kong/kong"
 )
 

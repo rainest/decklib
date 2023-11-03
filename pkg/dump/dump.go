@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/utils"
 	"github.com/kong/go-kong/kong"
 	"golang.org/x/sync/errgroup"
 )

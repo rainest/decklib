@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/konnect"
-	"github.com/rainest/deck/state"
+	"github.com/rainest/decklib/crud"
+	"github.com/rainest/decklib/konnect"
+	"github.com/rainest/decklib/state"
 )
 
 // serviceVersionCRUD implements crud.Actions interface.

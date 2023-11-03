@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/types"
+	"github.com/rainest/decklib/crud"
+	"github.com/rainest/decklib/types"
 	"github.com/stretchr/testify/require"
 )
 

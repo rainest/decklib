@@ -12,7 +12,7 @@ import (
 	"github.com/hexops/gotextdiff"
 	"github.com/hexops/gotextdiff/myers"
 	"github.com/hexops/gotextdiff/span"
-	"github.com/rainest/deck/state"
+	"github.com/rainest/decklib/state"
 )
 
 var differ = gojsondiff.New()
