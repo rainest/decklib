@@ -7,7 +7,7 @@ import (
 	"reflect"
 
 	"github.com/alecthomas/jsonschema"
-	"github.com/rainest/deck/file"
+	"github.com/rainest/decklib/pkg/file"
 	"github.com/kong/go-kong/kong"
 )
 

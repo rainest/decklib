@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/pkg/utils"
 	"github.com/kong/go-kong/kong"
 )
 

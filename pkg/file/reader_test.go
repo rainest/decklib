@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rainest/deck/dump"
+	"github.com/rainest/decklib/pkg/dump"
 	"github.com/kong/go-kong/kong"
 	"github.com/stretchr/testify/assert"
 )

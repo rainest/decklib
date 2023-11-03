@@ -9,9 +9,9 @@ import (
 	"testing"
 
 	"github.com/blang/semver/v4"
-	"github.com/rainest/deck/konnect"
-	"github.com/rainest/deck/state"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/pkg/konnect"
+	"github.com/rainest/decklib/pkg/state"
+	"github.com/rainest/decklib/pkg/utils"
 	"github.com/kong/go-kong/kong"
 	"github.com/stretchr/testify/assert"
 )

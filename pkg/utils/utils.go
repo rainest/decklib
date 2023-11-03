@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/blang/semver/v4"
-	"github.com/rainest/deck/cprint"
+	"github.com/rainest/decklib/pkg/cprint"
 	"github.com/kong/go-kong/kong"
 )
 

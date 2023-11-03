@@ -1,8 +1,8 @@
 package diff
 
 import (
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/types"
+	"github.com/rainest/decklib/pkg/crud"
+	"github.com/rainest/decklib/pkg/types"
 )
 
 /*

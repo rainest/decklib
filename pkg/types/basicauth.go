@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/rainest/deck/cprint"
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/state"
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/pkg/cprint"
+	"github.com/rainest/decklib/pkg/crud"
+	"github.com/rainest/decklib/pkg/state"
+	"github.com/rainest/decklib/pkg/utils"
 	"github.com/kong/go-kong/kong"
 )
 

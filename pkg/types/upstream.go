@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/rainest/deck/crud"
-	"github.com/rainest/deck/state"
+	"github.com/rainest/decklib/pkg/crud"
+	"github.com/rainest/decklib/pkg/state"
 	"github.com/kong/go-kong/kong"
 )
 

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rainest/deck/konnect"
+	"github.com/rainest/decklib/pkg/konnect"
 	"github.com/kong/go-kong/kong"
 )
 

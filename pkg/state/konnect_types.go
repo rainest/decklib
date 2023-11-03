@@ -3,7 +3,7 @@ package state
 import (
 	"reflect"
 
-	"github.com/rainest/deck/konnect"
+	"github.com/rainest/decklib/pkg/konnect"
 )
 
 // Document represents a document in Konnect.

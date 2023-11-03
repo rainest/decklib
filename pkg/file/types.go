@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rainest/deck/utils"
+	"github.com/rainest/decklib/pkg/utils"
 	"github.com/kong/go-kong/kong"
 )
 

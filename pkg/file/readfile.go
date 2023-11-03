@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/imdario/mergo"
-	"github.com/rainest/deck/utils"
+	"dario.cat/mergo"
+	"github.com/rainest/decklib/pkg/utils"
 	"sigs.k8s.io/yaml"
 )
 
